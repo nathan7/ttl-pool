@@ -1,0 +1,21 @@
+{
+  "name": "ttl-pool",
+  "version": "1.0.0",
+  "description": "a pool of expiring things",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/ttl-pool.git"
+  },
+  "keywords": [
+    "ttl",
+    "pool",
+    "expiry"
+  ],
+  "author": "Nathan Zadoks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathan7/ttl-pool/issues"
+  },
+  "homepage": "https://github.com/nathan7/ttl-pool"
+}
