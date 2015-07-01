@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/nathan7/ttl-pool/issues"
   },
-  "homepage": "https://github.com/nathan7/ttl-pool"
+  "homepage": "https://github.com/nathan7/ttl-pool",
+  "dependencies": {
+    "dict": "~1.4.0"
+  }
 }
